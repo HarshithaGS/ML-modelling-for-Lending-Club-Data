@@ -1,0 +1,3 @@
+https://github.com/h2oai/h2o-tutorials/blob/master/h2o-open-tour-2016/chicago/intro-to-h2o.ipynb
+
+https://github.com/modelriskanalytics/DataScienceForFinanceSmall/blob/master/project/project/notebook/Building_Models_2.ipynb
